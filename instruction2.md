@@ -1,6 +1,5 @@
 # Инструкция для работы с Git
 
-<<<<<<< HEAD
 ## Начальные настройки и установки
 
 *git config --global user.name «Ваше имя английскими буквами»  например: Konstantin*
@@ -27,3 +26,6 @@
 
 ## Удаленная работа с репозиторием
 
+## Работа с фото
+
+![fields in Bali](2.-David-Lazar-Bali-for-Ideal-Escapes-1600px.jpg)
