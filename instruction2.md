@@ -25,4 +25,6 @@
 
  ## Работа с ветками
 
+## Работа с фото
 
+![fields in Bali](2.-David-Lazar-Bali-for-Ideal-Escapes-1600px.jpg)
